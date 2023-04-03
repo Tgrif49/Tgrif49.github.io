@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # 377 Midterm Report
 
 ### Summary:
