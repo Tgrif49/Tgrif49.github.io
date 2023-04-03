@@ -8,10 +8,10 @@ I am a Junior at Lehigh University studying Finance and Supply Chain Management.
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](report/report.md)**_
 
 
-<img src="images/output_10_0.png?raw=true"/>
+<img src="report/output_10_0.png?raw=true"/>
 
 ---
 
