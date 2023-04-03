@@ -6,6 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="/pdf/Thomas_Griffith_Resume2022.pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://github.com/Tgrif49">Youtube</a> 
+  <a href="https://github.com/Tgrif49">Github</a> 
   
 theme: jekyll-theme-minimal
