@@ -10,9 +10,8 @@ I am a Junior at Lehigh University studying Finance and Supply Chain Management.
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_10_0.png?raw=true"/>
 
 ---
 
@@ -46,7 +45,6 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
