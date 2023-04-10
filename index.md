@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Junior at Lehigh University pursuing Majors in Finance and Supply Chain Management with a minor in Psychology.
+I am a Junior at Lehigh University pursuing Majors in Finance and Supply Chain Management with a minor in Psychology. 
 
 ---
 
@@ -15,10 +15,9 @@ _**[Identifying the effects of 10-k sentiment analysis on returns](report/report
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression on Housing data](/images/Reg_SC.png)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
+Here, I performed regression on housing using the housing_train.csv dataset. With more exploration of the data, I was able to find that different attributes of home sales result in stronger correlation between the eventual sale price. 
 
 ---
 
@@ -35,6 +34,8 @@ _**[Financial Modeling and Risk Analysis for Startup](/pdf/Final_Presentation_3D
 ## Career Objectives
 
 As a Finance professional with an interest in mortgage finance, global procurement, and AI in supply chain, my career objectives are centered around leveraging my expertise in these areas to drive innovative and sustainable solutions.  
+
+As an Incoming Multifamily Real Estate Finance intern at Freddie Mac, I am excited to apply the skils I have learned, and learn more about the Mortgage industry!
 
 ---
 
