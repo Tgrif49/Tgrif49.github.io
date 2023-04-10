@@ -8,7 +8,7 @@ I am a Junior at Lehigh University pursuing Majors in Finance and Supply Chain M
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](report/report.md)**_
+_**[Identifying the effects of 10-k sentiment analysis on returns](report/report.md)**_
 
 
 <img src="report/output_10_0.png?raw=true"/>
@@ -28,7 +28,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Financial Modeling and Risk Analysis for Startup](/pdf/Final Presentation 3DC.pdf)**_
 
 
 ---
