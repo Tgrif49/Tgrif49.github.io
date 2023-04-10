@@ -19,16 +19,15 @@ _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Work-In-Progress Team Project]([https://donbowen.github.io/teamproject/](https://tgrif49.github.io/Final-project-griffith/))**_
 
 
 ---
 
-_**[Financial Modeling and Risk Analysis for Startup](/pdf/Final Presentation 3DC.pdf)**_
+_**[Financial Modeling and Risk Analysis for Startup](/pdf/Final_Presentation_3DC.pdf)**_
 
 
 ---
