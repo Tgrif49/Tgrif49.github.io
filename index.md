@@ -51,6 +51,10 @@ As an Incoming Multifamily Real Estate Finance intern at Freddie Mac, I am excit
 
 Some of my hobbies include snowboarding, mountain biking, D.C. sports, and golfing (usually poorly!). 
 
+Below is a picture of me exploring the great outdoors in Jay Peak, VT: 
+
+<img src="/images/Vermont.JPG?raw=true"/>
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
