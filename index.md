@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Junior at Lehigh University studying Finance and Supply Chain Management.
+I am a Junior at Lehigh University pursuing Majors in Finance and Supply Chain Management with a minor in Psychology.
 
 ---
 
@@ -25,26 +25,23 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+As a Finance professional with an interest in mortgage finance, global procurement, and AI in supply chain, my career objectives are centered around leveraging my expertise in these areas to drive innovative and sustainable solutions.  
 
 ---
 
 ## Hobbies
 
+Some of my hobbies include snowboarding, mountain biking, D.C. sports, and golfing (typically poorly). 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
