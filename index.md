@@ -2,6 +2,8 @@
 
 I am a Junior at Lehigh University pursuing Majors in Finance and Supply Chain Management with a minor in Psychology. 
 
+This summer I will be interning at Freddie Mac as a Multifamily Real Estate Finance intern in McLean, VA
+
 ---
 
 ## Portfolio
@@ -19,6 +21,8 @@ _**[Regression on Housing data](/images/Reg_SC.png)**_
 
 Here, I performed regression on housing using the housing_train.csv dataset. With more exploration of the data, I was able to find that different attributes of home sales result in stronger correlation between the eventual sale price. 
 
+<img src="/images/Reg_SC.png?raw=true"/>
+
 ---
 
 _**[Work-In-Progress Team Project](https://tgrif49.github.io/Final-project-griffith/)**_
@@ -27,6 +31,10 @@ _**[Work-In-Progress Team Project](https://tgrif49.github.io/Final-project-griff
 ---
 
 _**[Financial Modeling and Risk Analysis for Startup](/pdf/Final_Presentation_3DC.pdf)**_
+
+For the Lehigh Consulting Group, my team worked with the startup comapny 3 Dimentional Captures. The company creates 3D tours of rental properties in the student housing market. For out project, we conducted financial modeling, risk and sentivity analysis, and applicable tax and financial incentives for the company to pursue. 
+
+<img src="/images/3DC_SC.png?raw=true"/>
 
 
 ---
@@ -41,7 +49,7 @@ As an Incoming Multifamily Real Estate Finance intern at Freddie Mac, I am excit
 
 ## Hobbies
 
-Some of my hobbies include snowboarding, mountain biking, D.C. sports, and golfing (typically poorly). 
+Some of my hobbies include snowboarding, mountain biking, D.C. sports, and golfing (usually poorly!). 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
