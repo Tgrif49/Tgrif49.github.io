@@ -2,7 +2,7 @@
 
 I am a Junior at Lehigh University pursuing Majors in Finance and Supply Chain Management with a minor in Psychology. 
 
-This summer I will be interning at Freddie Mac as a Multifamily Real Estate Finance intern in McLean, VA
+This summer, I will be interning at Freddie Mac as a Multifamily Real Estate Finance intern in McLean, VA
 
 ---
 
@@ -32,7 +32,7 @@ _**[Work-In-Progress Team Project](https://tgrif49.github.io/Final-project-griff
 
 _**[Financial Modeling and Risk Analysis for Startup](/pdf/Final_Presentation_3DC.pdf)**_
 
-For the Lehigh Consulting Group, my team worked with the startup comapny 3 Dimentional Captures. The company creates 3D tours of rental properties in the student housing market. For out project, we conducted financial modeling, risk and sentivity analysis, and applicable tax and financial incentives for the company to pursue. 
+For the Lehigh Consulting Group, my team worked with the startup company 3 Dimensional Captures. The company creates 3D tours of rental properties in the student housing market. For our project, we conducted financial modeling, risk and sensitivity analysis, and applicable tax and financial incentives for the company to pursue. 
 
 <img src="/images/3DC_SC.png?raw=true"/>
 
@@ -43,7 +43,7 @@ For the Lehigh Consulting Group, my team worked with the startup comapny 3 Dimen
 
 As a Finance professional with an interest in mortgage finance, global procurement, and AI in supply chain, my career objectives are centered around leveraging my expertise in these areas to drive innovative and sustainable solutions.  
 
-As an Incoming Multifamily Real Estate Finance intern at Freddie Mac, I am excited to apply the skils I have learned, and learn more about the Mortgage industry!
+As an Incoming Multifamily Real Estate Finance intern at Freddie Mac, I am excited to apply the skills I have learned, and learn more about the Mortgage industry!
 
 ---
 
