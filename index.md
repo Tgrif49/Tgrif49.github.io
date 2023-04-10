@@ -22,7 +22,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Work-In-Progress Team Project]([https://donbowen.github.io/teamproject/](https://tgrif49.github.io/Final-project-griffith/))**_
+_**[Work-In-Progress Team Project](https://tgrif49.github.io/Final-project-griffith/)**_
 
 
 ---
